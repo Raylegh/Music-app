@@ -1,4 +1,4 @@
-#Music App
+### Music App
 
 Music app created with react.
 
